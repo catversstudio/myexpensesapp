@@ -9,10 +9,10 @@
 
 <p align="center">
   <a href="https://myexpensesapp.pages.dev">
-    <img src="https://ik.imagekit.io/vkew7xuz4/Screenshot_2026-09-07-22-00-22-91_9696cb8ceea528cd148262839b214335.jpg?updatedAt=1788799068946" alt="My Expenses app — tap to open the live website" width="280">
+    <img src="https://myexpensesapp.pages.dev/website-preview.jpg" alt="My Expenses live website — tap the screenshot to open the page" width="760">
   </a>
   <br>
-  <em>👆 Tap the preview to open the live website</em>
+  <em>👆 This is our actual live website — tap the screenshot to open the page</em>
 </p>
 
 ## ⬇️ Download the app
